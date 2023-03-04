@@ -18,3 +18,5 @@ git status
 
 git add read.md
 git commit -m "Добавили файл"
+
+***Added some notes***
